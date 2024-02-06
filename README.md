@@ -1,8 +1,15 @@
 ### Hello!  
 
-I am Bernat Font, Assistant Professor in Data-Informed Computational Fluid Dynamics at TU Delft 🌀 Also interested in many other things!
+I am Bernat Font, Assistant Professor in Data-Informed Computational Fluid Dynamics (CFD) at TU Delft 🌀 
 
-- 🎓 My PhD involved modelling of flow past long cylindrical structures using dimensionality reduction and machine learning methods
+My research is focused in the explotation of data to improve current CFD methodologies. Briefly:
+- Acceleration of scale-resolving simulations using generative methods
+- Data-driven wall models for equlibrium and non-equilibrium boundary layers
+- Active flow control using reinforcement learning
+
+Some addition info about me:
+- 🎓 My PhD involved the development of a dimensionality-reduction method aided by machine learning which allows to obtain 3-D spatially-averaged flow in just 2-D simulations
 - 🌱 Mainly developing in Julia, Python, and Fortran!
-- 💬 Contact me for collaborations, help, suggestions
 - 😄 Pronouns: he/his
+- 💬 Contact me for collaborations, help, suggestions
+
