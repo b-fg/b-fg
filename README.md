@@ -4,7 +4,7 @@ I am Bernat Font, Assistant Professor in Data-Informed Computational Fluid Dynam
 
 My research is focused in the exploitation of data to improve current CFD methodologies. Briefly:
 - Acceleration of scale-resolving simulations using generative methods
-- Data-driven wall models for equlibrium and non-equilibrium boundary layers
+- Data-driven wall models for equilibrium and non-equilibrium boundary layers
 - Active flow control using reinforcement learning
 
 Some addition info about me:
