@@ -8,7 +8,7 @@ My research is focused in the exploitation of data to improve current CFD method
 - Active flow control using reinforcement learning
 
 Some addition info about me:
-- 🎓 My PhD involved the development of a dimensionality-reduction method aided by machine learning which allows to obtain 3-D spatially-averaged flow in just 2-D simulations
+- 🎓 My PhD involved the development of a dimensionality-reduction method aided by machine learning which allows to obtain 3-D spatially-averaged flow in a 2-D simulation
 - 🌱 Mainly developing in Julia, Python, and Fortran!
 - 😄 Pronouns: he/his
 - 💬 Contact me for collaborations, help, suggestions
