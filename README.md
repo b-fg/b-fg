@@ -7,7 +7,7 @@ My research is focused in enhancing CFD solvers through data-informed models. Br
 - Data-driven wall models for turbulent non-equilibrium boundary layers
 - Active flow control using reinforcement learning
   
-Find more details on my personal [webpage](https://b-fg.github.io/publications/). Some addition info about me:
+Find more details on my personal [webpage](https://b-fg.github.io/). Some addition info about me:
 - 🎓 My PhD involved the development of a machine-learning turbulence model to reproduce 3D turbulence in 2D simulations
 - 🌱 Mainly developing in Julia, Python, and Fortran!
 - 💬 Contact me for collaborations, help, suggestions
