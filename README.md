@@ -10,7 +10,5 @@ My research is focused in enhancing CFD solvers through data-informed models. Br
 Find more details on my personal [webpage](https://b-fg.github.io/). Some addition info about me:
 - 🎓 My PhD involved the development of a machine-learning turbulence model to reproduce 3D turbulence in 2D simulations
 - 🌱 Mainly developing in Julia, Python, and Fortran!
-- 💬 Contact me for collaborations, help, suggestions
-- ✉️ [Email](mailto:b.font@tudelft.nl) | 🦋 [BlueSky](https://bsky.app/profile/fontb.bsky.social)
-  
+- 💬 Contact me for collaborations, help, suggestions: b.font at tudelft dot nl
 
