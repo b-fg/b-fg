@@ -8,7 +8,7 @@ My research is focused in enhancing CFD solvers through data-informed models suc
 
 I am also a co-developer of [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl), a popular CFD solver written in Julia.
   
-Find more details on my personal [webpage](https://b-fg.github.io/). Some addition info about me:
+Find more details on my personal [webpage](https://b-fg.github.io/). Some additional info about me:
 - 🎓 My PhD involved the development of a machine-learning turbulence model to reproduce 3D turbulence in 2D simulations
 - 🌱 Mainly developing in Julia, Python, and Fortran!
 - 💬 Contact me for collaborations, help, suggestions: b.font at tudelft dot nl
